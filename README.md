@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on CADIT Technology Engineer.
+- 🌱 I’m currently learning about technology.
+- 👯 I’m looking to collaborate on programming.
+- 🤔 I’m looking for help with about computer.
+- 💬 Ask me about any programming.
+- 📫 How to reach me via email or visit my website.
+- 😄 Pronouns: rayhanh.com
+- ⚡ Fun fact: i have no life because i have google.
 <!--
 **rayhanengr/rayhanengr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
