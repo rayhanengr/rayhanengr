@@ -42,7 +42,7 @@ current_job: CADIT
 education:
   [
     "Self-Taught Developer and Designer",
-    "Diploma's in CAD and Computer Engineering",
+    "Diploma Engineering in CADIT & Computer",
     
   ]
 company: Hikari Engineering
