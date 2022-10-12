@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://giphy.com/gifs/programming-developer-programmer-JyxdzuAaxZnPH7TyRd">
+  <img src= "https://giphy.com/gifs/programming-developer-programmer-JyxdzuAaxZnPH7TyRd.web">
 </p>
 
 ---
