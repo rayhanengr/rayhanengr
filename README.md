@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/01/coding_gif.gif">
+  <img src= "https://miro.medium.com/max/1100/1*OF0xEMkWBv-69zvmNs6RDQ.gif">
 </p>
 
 ---
