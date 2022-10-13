@@ -16,8 +16,8 @@
 <a href="https://www.rptech.live/">
   <img height="50" src="https://user-images.githubusercontent.com/78341798/194531458-b5dfeb1b-bad5-4dfa-909a-2e402262db9a.svg"/>
 </a>
-<a href="https://rayhanh.com">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+<a href="mailto:ayonahmedrayhan@gmail.com" target="_blank">
+  <img height="50" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg"/>
 </a>
 <a href="https://twitter.com/rayhan_engi">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
