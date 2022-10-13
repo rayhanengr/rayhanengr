@@ -47,7 +47,7 @@ Education:
   ]
 Company: Hikari Engineering
 
-fields_of_interests:
+Fields_of_interests:
   [
     "Web Development",
     "Data Science",
@@ -56,7 +56,7 @@ fields_of_interests:
     "Game Development",
     "DevOps",
   ]
-technical_background:
+Technical_background:
   [
     "DevOps Solutions Architect",
     "Intern - Data Science & Machine Learning in Python",
