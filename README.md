@@ -110,8 +110,10 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+--- 
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sureshchand12a&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rayhanengr&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 <div align="center">
 
