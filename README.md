@@ -107,12 +107,8 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
   
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-
-## 🏆 GitHub Trophies
+  
+  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thepiyushmalhotra&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 <div align="center">
@@ -120,3 +116,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ### Trophies i earn with repositories!
 
 </div>
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
