@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/rayhanengr/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="https://rayhanh.com.com/">
+<a href="https://www.rptech.live/">
   <img height="50" src="https://user-images.githubusercontent.com/78341798/194531458-b5dfeb1b-bad5-4dfa-909a-2e402262db9a.svg"/>
 </a>
 <a href="https://rayhanh.com">
