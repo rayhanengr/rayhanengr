@@ -84,7 +84,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
   
   
   ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thepiyushmalhotra&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rayhanengr&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 <div align="center">
 
