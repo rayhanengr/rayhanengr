@@ -1,3 +1,5 @@
+[![Image of https://github.com/rayhanengr/my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-view-counter)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
