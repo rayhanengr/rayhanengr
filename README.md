@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hey+im+ALI-MD+RAYHAN!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hey+i'm+ALI-MD+RAYHAN!)](https://git.io/typing-svg)
 </p>
 <h1 align="center">
   Let's Connect and have a Chat!💬
