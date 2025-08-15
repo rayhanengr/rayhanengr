@@ -79,7 +79,9 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
  <a href="https://github.com/rayhanengr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayhanengr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://komarev.com/ghpvc/?username=rayhanengr&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <!-- GitHub stats image temporarily removed due to service issues. -->
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanengr&layout=compact&langs_count=7&theme=dracula"/>
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
