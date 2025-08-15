@@ -85,19 +85,14 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
   <!-- Top languages card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanengr&layout=compact&langs_count=7&theme=radical" alt="Top Languages"/>
   <br/>
-  <!-- Fallback: Streak card for extra reliability -->
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=rayhanengr&theme=radical" alt="GitHub Streak"/>
-  </a>
+  <!-- Snake animation -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <br/>
+  <!-- Trophy card -->
+  <img src="https://github-profile-trophy.vercel.app/?username=rayhanengr&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rayhanengr&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
 <div align="center">
-
-### Trophies i earn with repositories!
-
+  <h3>Trophies I earn with repositories!</h3>
 </div>
 
 <p align="left">
