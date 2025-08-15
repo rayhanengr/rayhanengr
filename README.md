@@ -1,31 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=I'M+ALI+MD+RAYHAN!)](https://git.io/typing-svg)
-
-
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
-
-
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
-<a href="https://linkedin.com/in/rayhanengr/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-<a href="https://www.rptech.live/">
-  <img height="50" src="https://user-images.githubusercontent.com/78341798/194531458-b5dfeb1b-bad5-4dfa-909a-2e402262db9a.svg"/>
-</a>
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://www.instagram.com/rayhan_eng/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-</p>
-<p align="center">
-  <img src= "https://miro.medium.com/max/1100/1*OF0xEMkWBv-69zvmNs6RDQ.gif">
-</p>
 
 ---
 
@@ -38,7 +11,6 @@ Education:
     "Self-Taught Developer and Designer",
     "Diploma Engineering in CADIT & Computer",
     
-  ]
 Company: Hikari Engineering
 
 Fields_of_interests:
@@ -50,7 +22,6 @@ Fields_of_interests:
     "Game Development",
     "DevOps",
   ]
-Technical_background:
   [
     "DevOps Solutions Architect",
     "Intern - Data Science & Machine Learning in Python",
