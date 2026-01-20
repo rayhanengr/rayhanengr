@@ -40,15 +40,15 @@
 
 ```yaml
 Name: ALI MD RAYHAN
-Located_in: Saitama, Japan
-Current_job: CADIT
+Located_in: Tokyo, Japan
+Current_job: IT Engineer
 Education:
   [
-    "Self-Taught Developer and Designer",
+    "Experience Japanese Company",
     "Diploma Engineering in CADIT & Computer",
     
   ]
-Company: Hikari Engineering
+Company: san-creation
 
 Fields_of_interests:
   [
