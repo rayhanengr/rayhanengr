@@ -1,89 +1,118 @@
-# 👋 MD Rayhan Ali
 
 <div align="center">
 
-# Software Development Engineer | Frontend Web Developer | C# .NET Developer
+<img src="./assets/banner.svg" width="100%" alt="Banner"/>
 
-[Portfolio](https://rayniverse.com) • [GitHub](https://github.com/rayhanengr)
+# 👋 Hi, I'm MD Rayhan Ali
+
+### System Design & Development Engineer | C# .NET Developer | LiDAR | CAD | Web Development
+
+<p>
+<a href="https://github.com/rayhanengr"><img src="https://img.shields.io/github/followers/rayhanengr?style=for-the-badge"></a>
+<a href="https://github.com/rayhanengr"><img src="https://img.shields.io/github/stars/rayhanengr?style=for-the-badge"></a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I am a Software Development Engineer based in Japan with experience in:
+I am a Software & Hardware Engineer based in Japan with experience in:
 
-- C# / .NET
-- WinForms
-- SQL Server
-- Frontend Development
-- React
-- JavaScript
-- PHP
-- WordPress
-- CAD
-- LiDAR Integration
+- 💻 C# /.NET Development
+- 🌐 Web Development
+- 📡 LiDAR Solutions
+- 🏗 CAD & Engineering Software
+- 🤖 Automation
+- ☁ Cloud Solutions
 
 ---
 
-## 🛠 Tech Stack
+# 💼 Tech Stack
 
-- C#
-- .NET
-- JavaScript
-- React
-- PHP
-- HTML5
-- CSS3
-- SQL Server
-- Git
-- GitHub
+<p align="center">
 
----
+<img src="./assets/coding.svg" width="80"/>
+<img src="./assets/frontend.svg" width="80"/>
+<img src="./assets/lidar.svg" width="80"/>
+<img src="./assets/cad.svg" width="80"/>
 
-## 📌 Current Focus
+</p>
 
-- Engineering Software
-- LiDAR Applications
-- Desktop Applications
-- Automation
-- Open Source
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,html,css,js,php,react,mysql,vscode"/>
+
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🖥 Workspace
 
-Replace YOUR_USERNAME with **rayhanengr**
-
-```md
-![Stats](https://github-readme-stats.vercel.app/api?username=rayhanengr&show_icons=true&theme=tokyonight)
-```
-
-```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanengr&layout=compact&theme=tokyonight)
-```
-
-```md
-![Streak](https://streak-stats.demolab.com?user=rayhanengr&theme=tokyonight)
-```
+<p align="center">
+<img src="./images/workspace.png" width="95%">
+</p>
 
 ---
 
-## 🏆 Featured Projects
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rayhanengr&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanengr&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=rayhanengr&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rayhanengr&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rayhanengr&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🔥 Featured Projects
 
 - Nexus Text Extractor
-- LiDAR Utilities
-- Engineering Desktop Software
-- Portfolio Website
+- LiDAR SDK Tools
+- CAD Automation
+- Engineering Utilities
+- Web Applications
 
 ---
 
-## 🌍 Contact
+# 📫 Connect With Me
 
-- 🌐 https://rayniverse.com
-- 💼 https://github.com/rayhanengr
+- 🌍 https://rayniverse.com
+- 💻 https://github.com/rayhanengr
 
 ---
 
-⭐ Thanks for visiting my profile!
+<div align="center">
+
+### Thanks for visiting my profile ❤️
+
+</div>
