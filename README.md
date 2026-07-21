@@ -111,7 +111,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rayhanengr/rayhanengr/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake" src="https://raw.githubusercontent.com/rayhanengr/rayhanengr/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
