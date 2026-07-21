@@ -9,11 +9,11 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate contribution snake
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: rayhanengr
@@ -21,10 +21,11 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy snake to output branch
+      - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: dist
+          keep_files: false
           force_orphan: true
