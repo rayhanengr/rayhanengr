@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0%" stop-color="#0f172a"/><stop offset="100%" stop-color="#2563eb"/></linearGradient></defs>
+<rect width="1200" height="300" fill="url(#g)"/>
+<text x="60" y="120" fill="white" font-size="48" font-family="Arial" font-weight="bold">MD Rayhan Ali</text>
+<text x="60" y="170" fill="#cbd5e1" font-size="26" font-family="Arial">Software Development Engineer • C#/.NET • Frontend • LiDAR</text>
+</svg>
